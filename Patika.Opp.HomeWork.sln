@@ -7,6 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odev-1", "Odev-1", "{94372A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork.Animals", "HomeWork.Animals\HomeWork.Animals.csproj", "{0D6B0859-C317-4830-AEDC-10C2719B7577}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{572373BE-4EF7-4600-92DB-DCDDF899C913}"
+	ProjectSection(SolutionItems) = preProject
+		Images\homewor-1-uml.png = Images\homewor-1-uml.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
