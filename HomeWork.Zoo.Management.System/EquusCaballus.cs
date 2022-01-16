@@ -2,19 +2,20 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace HomeWork.Animals
+namespace HomeWork.Zoo.Management.System
 {
-    public class Rodentia : Animal
+    public class EquusCaballus : Equidae
     {
         public override double getDosage()
         {
-            return 125;
+            return 25;
         }
 
         public override int getFeedSchedule()
         {
-            return 5;
+            return 6;
         }
     }
 }

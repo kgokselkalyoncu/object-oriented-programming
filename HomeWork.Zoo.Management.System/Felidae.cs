@@ -3,18 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace HomeWork.Animals
+namespace HomeWork.Zoo.Management.System
 {
-    public class Equidae : Animal
+    public class Felidae : Animal
     {
         public override double getDosage()
         {
-            return 50;
+            return 75;
         }
 
         public override int getFeedSchedule()
         {
-            return 4;
+            return 2;
         }
     }
 }

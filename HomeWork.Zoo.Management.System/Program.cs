@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HomeWork.Animals
+namespace HomeWork.Zoo.Management.System
 {
     class Program
     {

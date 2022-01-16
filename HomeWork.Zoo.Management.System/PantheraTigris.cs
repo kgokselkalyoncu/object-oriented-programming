@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace HomeWork.Animals
+namespace HomeWork.Zoo.Management.System
 {
     public class PantheraTigris : Felidae
     {
