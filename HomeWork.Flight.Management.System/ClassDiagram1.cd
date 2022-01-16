@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="HomeWork.Flight.Management.System.Aircraft.Aircraft">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAAAAAAAAAAAQAAABEAAAEQAAABAQAAgA=</HashCode>
+      <FileName>Aircraft\Aircraft.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="State" />
+      <Property Name="AircraftType" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="HomeWork.Flight.Management.System.AirlineCompany.AirlineCompany">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAGAAAAAAAQAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>AirlineCompany\AirlineCompany.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Aircrafts" />
+      <Field Name="Pilots" />
+      <Field Name="Flights" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="HomeWork.Flight.Management.System.Airport.Airport">
+    <Position X="12.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Airport\Airport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Flight.Management.System.Flight.Flight">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAIAIAAAACAAAAAAAAAAAACAAAAAgAAAAAAgA=</HashCode>
+      <FileName>Flight\Flight.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DepartureAirport" />
+      <Property Name="ArrivalAirport" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="HomeWork.Flight.Management.System.Pilot.Pilot">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAAAAgAAAAAAAAEAAQABAAFAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>Pilot\Pilot.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Type" />
+    </ShowAsAssociation>
+  </Class>
+  <Enum Name="HomeWork.Flight.Management.System.Constants.AircraftState">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Constants\AircraftState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HomeWork.Flight.Management.System.Constants.PilotType">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Constants\PilotType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HomeWork.Flight.Management.System.Constants.AircraftType">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAICAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants\AircraftType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

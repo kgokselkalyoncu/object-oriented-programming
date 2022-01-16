@@ -5,16 +5,17 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odev-1", "Odev-1", "{94372A22-03E9-47B5-9C08-F40E531F53BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork.Zoo.Management.System", "HomeWork.Zoo.Management.System\HomeWork.Zoo.Management.System.csproj", "{0D6B0859-C317-4830-AEDC-10C2719B7577}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork.Zoo.Management.System", "HomeWork.Zoo.Management.System\HomeWork.Zoo.Management.System.csproj", "{0D6B0859-C317-4830-AEDC-10C2719B7577}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{572373BE-4EF7-4600-92DB-DCDDF899C913}"
 	ProjectSection(SolutionItems) = preProject
 		Images\homewor-1-uml.png = Images\homewor-1-uml.png
+		Images\homewor-2-uml.png = Images\homewor-2-uml.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odev-2", "Odev-2", "{82991A57-EBF2-4271-8939-60D22529C027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork.Flight.Management.System", "HomeWork.Flight.Management.System\HomeWork.Flight.Management.System.csproj", "{C9315290-F660-4730-A87F-15BB884550B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork.Flight.Management.System", "HomeWork.Flight.Management.System\HomeWork.Flight.Management.System.csproj", "{C9315290-F660-4730-A87F-15BB884550B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
