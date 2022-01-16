@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HomeWork.Animals.EquusCaballus">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EquusCaballus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.Animal">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAQAAAAEAAAAQAACAEAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.Felidae">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Felidae.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.Equidae">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equidae.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.Rodentia">
+    <Position X="16.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rodentia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.EquusAsinus">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EquusAsinus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.EquusGrevyi">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EquusGrevyi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.PantheraOnca">
+    <Position X="7.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PantheraOnca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.PantheraTigris">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PantheraTigris.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.PantheraLeo">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PantheraLeo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.Sciuridae">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sciuridae.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.Rattus">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rattus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Animals.Castoridae">
+    <Position X="18.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Castoridae.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

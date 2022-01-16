@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odev-1", "Odev-1", "{94372A22-03E9-47B5-9C08-F40E531F53BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork.Animals", "HomeWork.Animals\HomeWork.Animals.csproj", "{0D6B0859-C317-4830-AEDC-10C2719B7577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D6B0859-C317-4830-AEDC-10C2719B7577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6B0859-C317-4830-AEDC-10C2719B7577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6B0859-C317-4830-AEDC-10C2719B7577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6B0859-C317-4830-AEDC-10C2719B7577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0D6B0859-C317-4830-AEDC-10C2719B7577} = {94372A22-03E9-47B5-9C08-F40E531F53BB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DD429B-0308-4515-A6D6-94384034C6B6}
+	EndGlobalSection
+EndGlobal
